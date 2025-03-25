@@ -12,7 +12,7 @@ This will install all the packages listed in package.json.
 # Run the Development Server
 npm run dev
 This will start the development server, and you can view the app in your browser at http://localhost:5173.
-<img src="20250325-1227-44.0226792.gif" width=200><br>
+<img src="20250325-1227-44.0226792.gif" width=400><br>
 
 
 # Important Files and Directories:
