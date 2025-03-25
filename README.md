@@ -12,7 +12,8 @@ This will install all the packages listed in package.json.
 # Run the Development Server
 npm run dev
 This will start the development server, and you can view the app in your browser at http://localhost:5173.
-https://github.com/Text-Summarize/frontend-app/blob/main/20250325-1227-44.0226792.gif
+<img src="20250325-1227-44.0226792.gif" width=200><br>
+
 
 # Important Files and Directories:
 src/: Contains the main React application code written in TypeScript (components, services, and utilities).
