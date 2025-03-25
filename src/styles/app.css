@@ -1,0 +1,13 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background: #f0faf7;
+    color: #2d2d5f;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+  }
+  
+  textarea {
+    resize: none;
+  }
+  
